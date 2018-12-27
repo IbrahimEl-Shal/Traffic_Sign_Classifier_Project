@@ -110,9 +110,9 @@ For most of the images, the model was certain of it's predictions. The top five 
 
 | Probability         	|     Prediction 		|
 |:---------------------:|:---------------------:|
-| 1.0         		    | 20 km/h   	   	   	|
+| 0.51         		    | 20 km/h   	   	   	|
 | 1.0     			    | General Caution		|
 | 1.0			        | Bumpy Road			|
 | 1.0	      	      	| Right Only			|
-| 0.5				    | Stop      			|
+| 0.84				    | Stop      			|
 | 1.0                   | Stop                  |
