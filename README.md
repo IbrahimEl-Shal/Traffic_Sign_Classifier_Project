@@ -114,5 +114,5 @@ For most of the images, the model was certain of it's predictions. The top five 
 | 1.0     			    | General Caution		|
 | 1.0			        | Bumpy Road			|
 | 1.0	      	      	| Right Only			|
-| 0.98				    | Stop      			|
+| 0.5				    | Stop      			|
 | 1.0                   | Stop                  |
